@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="872"
+   height="486"
+   viewBox="0 0 230.71669 128.5875"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:zoom="1.0074671"
+     inkscape:cx="366.76137"
+     inkscape:cy="340.95408"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25232"
+       x="-0.0064457323"
+       y="-0.086765935"
+       width="1.0128915"
+       height="1.1735319">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.12125478"
+         id="feGaussianBlur25234" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#666666;stroke-width:0.0661458;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect10460"
+       width="230.71667"
+       height="128.58751"
+       x="0"
+       y="0" />
+    <path
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke-width:0.25;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path20067"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="385.69333"
+       sodipodi:cy="346.98575"
+       sodipodi:r1="138.36571"
+       sodipodi:r2="69.182854"
+       sodipodi:arg1="0.37865109"
+       sodipodi:arg2="1.0069696"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 514.25778,398.13505 -91.59144,7.32517 -45.89028,79.60359 -35.26997,-84.84503 -89.88839,-19.04539 69.7934,-59.76229 -9.66379,-91.37429 78.40465,47.90991 83.91584,-37.42703 -21.33666,89.37224 z"
+       transform="matrix(0.24827737,0.09144777,-0.09144777,0.24827737,127.45613,-31.017413)"
+       inkscape:transform-center-x="0.71817571"
+       inkscape:transform-center-y="-3.5368395" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="170.81158"
+       y="84.857147"
+       id="text4720"><tspan
+         sodipodi:role="line"
+         id="tspan4718"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="170.81158"
+         y="84.857147"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
+           id="tspan12658">100</tspan><tspan
+           style="font-size:5.64444px;fill:#ffffff"
+           id="tspan11668">元</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="175.72511"
+       y="107.09418"
+       id="text6376"><tspan
+         sodipodi:role="line"
+         id="tspan6374"
+         style="stroke-width:0.264583;fill:#ff0000"
+         x="175.72511"
+         y="107.09418"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
+           id="tspan14266">50</tspan><tspan
+           style="font-size:6.35px;fill:#ff0000"
+           id="tspan15266">元</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.798031"
+       y="38.03941"
+       id="text9364"><tspan
+         sodipodi:role="line"
+         id="tspan9362"
+         style="stroke-width:0.264583"
+         x="27.798031"
+         y="38.03941">限时秒杀</tspan></text>
+    <path
+       style="opacity:1;mix-blend-mode:normal;fill:#ff0000;stroke-width:0.0885114;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter25232)"
+       id="path19821"
+       d="m 162.78008,82.969935 c 8.65633,-0.556059 17.32658,-0.814808 25.99813,-1.000747 5.36579,-0.09534 10.73253,-0.155445 16.09921,-0.130683 0,0 3.05059,-2.222553 3.05059,-2.222553 v 0 c -5.56128,0.167958 -11.12113,0.380122 -16.68234,0.550699 -8.42847,0.256929 -16.86273,0.555342 -25.29558,0.500134 0,0 -3.17001,2.30315 -3.17001,2.30315 z"
+       transform="matrix(0.78474921,0,0,0.7116637,36.877448,23.177089)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke-width:0.25;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path20509"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="204.59718"
+       sodipodi:cy="221.18614"
+       sodipodi:r1="118.60591"
+       sodipodi:r2="59.302956"
+       sodipodi:arg1="0.85964162"
+       sodipodi:arg2="1.4879601"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 282.01233,311.04301 -72.50833,-30.75726 -66.44318,42.29387 6.84559,-78.46403 -60.75594,-50.1217 76.73914,-17.73618 28.89395,-73.27078 40.5818,67.50247 78.61338,4.83786 -51.6582,59.45501 z"
+       transform="matrix(0.26458335,0,0,0.26458335,80.453887,4.3323883)"
+       inkscape:transform-center-x="0.80236903"
+       inkscape:transform-center-y="-2.2232584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="120.79648"
+       y="69.168358"
+       id="text1530"><tspan
+         sodipodi:role="line"
+         id="tspan1528"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="120.79648"
+         y="69.168358"><tspan
+   style="font-size:16.9333px;fill:#ff0000"
+   id="tspan17708">50</tspan>%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.26167"
+       y="79.213005"
+       id="text3712"><tspan
+         sodipodi:role="line"
+         id="tspan3710"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="136.26167"
+         y="79.213005">off</tspan></text>
+  </g>
+</svg>
