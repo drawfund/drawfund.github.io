@@ -1,9 +1,5 @@
 <!-- docs/_sidebar.md -->
-
 - [主页](/)
-- 文档
-  - [drawio-docs-zh](http://draw.fund/drawio-docs-zh/)
-  - [drawio-docs-en-US](http://draw.fund/drawio-docs-en-US/)
 - 图集
   - [流程图](flowchart.md)
   - [维恩图](venn.md)
