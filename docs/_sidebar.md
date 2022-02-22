@@ -2,7 +2,7 @@
 
 * [主页](/)
 * 图集商店
-  * [代码注释图](codemark.md)
+  * [代码标注图](codemark.md)
   * [其它](diagrams-misc.md)
 * 形状商店
     * [触控形状](shapes-touch.md)

@@ -6,6 +6,7 @@
 * 编写绘图相关文档
 
 #### 用户社区
+![logo](https://draw.fund/_images/images-3rd/GitHub/icon-campus_program.webp)
 
 [https://draw.zulipchat.com/](https://draw.zulipchat.com/)
 
