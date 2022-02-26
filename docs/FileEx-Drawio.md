@@ -16,8 +16,8 @@ Logo:
 
 #### 零件：
 
-- 当前使用的16.0.7版本的Electron。![Electron_Software_Framework_Logo](https://draw.fund/_images/misc/Electron_Software_Framework_Logo-wh64.svg)
-- 当前使用16.4.5版本的Drawio。
+- 当前使用的17.0.0版本的Electron。![Electron_Software_Framework_Logo](https://draw.fund/_images/misc/Electron_Software_Framework_Logo-wh64.svg)
+- 当前使用16.6.4版本的Drawio。
 
 #### **下载链接：**
  [https://draw.zulipchat.com/](https://draw.zulipchat.com/)
