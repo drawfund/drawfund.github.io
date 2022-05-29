@@ -20,12 +20,16 @@ Logo:
 - 当前使用18.1.3版本的Drawio。
 
 #### **下载链接：**
- [https://draw.zulipchat.com/](https://draw.zulipchat.com/)
+
 * [FileEx-win64.7z](https://www.123pan.com/s/MHaDVv-M5fwv)
 * [FileEx-win32.7z](https://www.123pan.com/s/MHaDVv-I5fwv)
+
 
 #### **价格：**
 
 FileEx-Drawio.exe定价100元。当前售价50元。支付后可以获得许可证。
 
-联系方式：founder@draw.fund
+联系方式：
+* founder@draw.fund
+* [https://draw.zulipchat.com/](https://draw.zulipchat.com/)
+
