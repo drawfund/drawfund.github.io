@@ -16,13 +16,15 @@ Logo:
 
 #### 零件：
 
-- 当前使用的19.0.1版本的Electron。![Electron_Software_Framework_Logo](https://draw.fund/_images/misc/Electron_Software_Framework_Logo-wh64.svg)
-- 当前使用18.1.3版本的Drawio。
+- 当前使用的19.0.5版本的Electron。![Electron_Software_Framework_Logo](https://draw.fund/_images/misc/Electron_Software_Framework_Logo-wh64.svg)
+- 当前使用20.0.1版本的Drawio。
 
 #### **下载链接：**
 
-* [FileEx-win64.7z](https://www.123pan.com/s/MHaDVv-M5fwv)
-* [FileEx-win32.7z](https://www.123pan.com/s/MHaDVv-I5fwv)
+* [FileEx-win64.7z](https://www.123pan.com/s/MHaDVv-4qfwv)
+* [FileEx-win32.7z](https://www.123pan.com/s/MHaDVv-xqfwv)
+
+更新日期：2022-06-21
 
 
 #### **价格：**
